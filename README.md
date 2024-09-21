@@ -8,12 +8,3 @@ To make a backup of instagram chat is very difficult task for people. Some use s
 * Copy messages folder and profile.json file from your backup data and paste it into downloaded git repo folder
 * Execute "script to create single msg file.py" using python
 * Open index.html file in your browser and enjoy :sunglasses:.
-
-Always happy to help you :smiley:.
-
-Do you have any queries or want to add some more functionality So feel free to contact me -
-
-Thanks to [Momciloo!](https://codepen.io/Momciloo) for awesome chatbox UI.
-
-Facebook : https://www.facebook.com/sumit.patidar.77 Gmail : patidar.sumit1110@gmail.com
-
